@@ -1,0 +1,12 @@
+.idea/
+node_modules
+/dist/
+*.log
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+modules/.settings
+modules/.vscode
+.vimrc
+.nvimrc
+
